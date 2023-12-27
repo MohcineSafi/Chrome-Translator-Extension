@@ -39,10 +39,6 @@ A simple Chrome extension for translating text using the MyMemory translation AP
 
 5. Optionally, click the "Speak" button to listen to the translated text.
 
-## Screenshot
-
-SOON
-
 ## Contributing
 
 Feel free to open issues and submit pull requests to contribute to the development of this Chrome Translator Extension.
